@@ -49,15 +49,15 @@
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
-<a href="https://www.google.com/search?q=alsiamworld">Google Me</a>
+<a href="https://www.google.com/search?q=ah-likhon">Google Me</a>
 <a href="https://github.com/ah-likhon/ah-likhon/"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
-<a href="https://visitor-badge.laobi.icu/badge?page_id=alsiamworld.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=ah-likhon.visitor-badge&title=Visits" align="right" alt="Visits"></a>
+<a href="https://visitor-badge.laobi.icu/badge?page_id=ah-likhon.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=ah-likhon.visitor-badge&title=Visits" align="right" alt="Visits"></a>
 
 <!-- <a href="https://visitor-badge.laobi.icu/badge?page_id=alsiamworld.visitor-badge&title=Visits"><img src="https://komarev.com/ghpvc/?username=ah-likhon&label=Profile%20views&color=0e75b6&style=flat" alt="ah-likhon" /></a> -->
 
 
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <p><br></p>
 <!-- <p align="center">
