@@ -24,7 +24,7 @@
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ah-likhon&show_icons=true&locale=en&layout=compact" alt="ah-likhon" /></p> -->
 
-<p height="300px" border="none">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-likhon&theme=dracula&show_icons=true)</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-likhon&theme=dracula&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-likhon&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
