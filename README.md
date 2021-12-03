@@ -33,7 +33,7 @@
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ah-likhon&" alt="ah-likhon" /></p>
 
 
- --> -->
+ -->
  
  <h2 align="center">
   Welcome to My World!
@@ -49,7 +49,7 @@
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
-<a href="https://www.google.com/search?q=mdakramulhoque">Google Me</a>
+<a href="https://www.google.com/search?q=ah_likhon">Google Me</a>
 <a href="https://github.com/ah-likhon/ah-likhon/"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=ah-likhon.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=ah-likhon.visitor-badge&title=Visits" align="right" alt="Visits"></a>
