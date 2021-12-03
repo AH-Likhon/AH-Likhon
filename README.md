@@ -24,8 +24,8 @@
 <!-- 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ah-likhon&show_icons=true&locale=en&layout=compact" alt="ah-likhon" /></p> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-likhon&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-likhon&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-likhon&theme=dracula&show_icons=true) -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-likhon&theme=dracula&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ah-likhon&show_icons=true&locale=en" alt="ah-likhon" /></p> -->
@@ -49,7 +49,7 @@
 <!-- YouTube Stats - https://github.com/DenverCoder1/github-readme-youtube-stats -->
 <!-- View counter - https://github.com/DenverCoder1/Simple-View-Counter -->
 
-<a href="https://www.google.com/search?q=ah-likhon">Google Me</a>
+<a href="https://www.google.com/search?q=mdakramulhoque">Google Me</a>
 <a href="https://github.com/ah-likhon/ah-likhon/"><img src="https://github.com/vidyabhandary/vidyabhandary/workflows/Build%20README/badge.svg" align="right" alt="Build README"></a>
 
 <a href="https://visitor-badge.laobi.icu/badge?page_id=ah-likhon.visitor-badge&title=Visits"><img src="https://visitor-badge.laobi.icu/badge?page_id=ah-likhon.visitor-badge&title=Visits" align="right" alt="Visits"></a>
