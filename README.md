@@ -26,6 +26,9 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ah-likhon&theme=darcula&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ah-likhon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ah-likhon&show_icons=true&locale=en" alt="ah-likhon" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ah-likhon&" alt="ah-likhon" /></p>
