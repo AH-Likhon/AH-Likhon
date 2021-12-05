@@ -42,7 +42,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/ah-likhon"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern%20Stack%20Developer;Front%20End%20Developer;&center=true&width=380&height=45"></a>
+  <a href="https://github.com/ah-likhon"><img src="https://readme-typing-svg.herokuapp.com/?lines=Mern%20Stack%20Developer;FrontEnd%20Developer;React%20Developer;Full%20Stack%20Developer;&center=true&width=380&height=45"></a>
 </p>
 
 <!-- Badges template - https://github.com/badges/shields -->
