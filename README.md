@@ -99,16 +99,19 @@
     <code href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20- %23007ACC.svg?logo=typescript&logoColor=white"></code>
     <code href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></code>
     <code href="#"><img alt="Python" src="https://img.shields.io/badge/Material UI%20-%2314354C.svg?logo=MaterialUI&logoColor=white"></code>
-    <code href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></code>
     <code href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></code>
     <code href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%234D97FF.svg?logo=Bootstrap&logoColor=white"></code>
-    <code href="#"><img alt="jQery" src="https://img.shields.io/badge/jQery%20-%23430098.svg?logo=jQery&logoColor=white"></code>
+    <code href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Tailwind CSS%20-%23F7DF1E.svg?logo=TailwindCSS&logoColor=black"></code>
+    <code href="#"><img alt="jQery" src="https://img.shields.io/badge/Axios%20-%23430098.svg?logo=Axios&logoColor=white"></code>
     <code href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></code>
     <code href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23F05033.svg?logo=github&logoColor=white"></code>
+    <code href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%2314354C.svg?logo=Netlify&logoColor=white"></code>
+    <code href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-21759B?logo=heroku&logoColor=white"></code>
     <code href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></code>
     <code href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></code>
     <code href="#"><img alt="Dev" src="https://img.shields.io/badge/Dev-FE7A16?logo=stack-dev&logoColor=white"></code>
     <code href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></code>
+    <code href="#"><img alt="Wordpress" src="https://img.shields.io/badge/Wordpress-21759B?logo=wordpress&logoColor=white"></code>
   
 </p>
 
