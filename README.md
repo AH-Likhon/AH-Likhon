@@ -93,7 +93,7 @@
     <code href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></code>
     <code href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></code>
     <code href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></code>
-    <code href="#"><img alt="Python" src="https://img.shields.io/badge/MaterialUI%20-%2314354C.svg?logo=MaterialUI&logoColor=white"></code>
+    <code href="#"><img alt="Python" src="https://img.shields.io/badge/Materia lUI%20-%2314354C.svg?logo=MaterialUI&logoColor=white"></code>
     <code href="#"><img alt="React" src="https://img.shields.io/badge/React%20-%2320232a.svg?logo=react&logoColor=%2361DAFB"></code>
     <code href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></code>
     <code href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></code>
