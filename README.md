@@ -60,19 +60,6 @@
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
 
 <p><br></p>
-<p align="center">
-  <a href="https://likhon.netlify.com" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ah-likhon" /></a> 
-  <a href="https://www.linkedin.com/in/mdakramulhoque/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ah-likhon"/></a> 
-<a href="https://dev.to/alsiamworld" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiamworld" /></a>
-  <a href="https://twitter.com/AurthohinL" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://instagram.com/alsiamworld" target="blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ah-likhon" /></a> 
-    <a href="https://web.facebook.com/MdhaLikhon" target="blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ah-likhon"  /></a> 
-</p>
-
-
-<p align="left">
-  <a href="https://github.com/ah-likhon?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -115,6 +102,21 @@
 <!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
 </a>
 <p></p>
+
+
+<p align="center">
+  <a href="https://likhon.netlify.com" target="blank"><img src="https://img.shields.io/badge/Website-DC143C?style=for-the-badge&logo=medium&logoColor=white" alt="ah-likhon" /></a> 
+  <a href="https://www.linkedin.com/in/mdakramulhoque/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ah-likhon"/></a> 
+<a href="https://dev.to/alsiamworld" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="alsiamworld" /></a>
+  <a href="https://twitter.com/AurthohinL" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+  <a href="https://instagram.com/alsiamworld" target="blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ah-likhon" /></a> 
+    <a href="https://web.facebook.com/MdhaLikhon" target="blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ah-likhon"  /></a> 
+</p>
+
+
+<p align="left">
+  <a href="https://github.com/ah-likhon?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
 
 <!-- ## 📘 My top open source projects
 
