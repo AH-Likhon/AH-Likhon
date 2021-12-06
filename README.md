@@ -64,6 +64,8 @@
 
 [![wakatime](https://wakatime.com/badge/user/6606ea27-fc94-47f3-bbff-6f374aa9d75e/project/0f62bfe7-ce59-46e5-97d2-78a927550a6a.svg)](https://wakatime.com/badge/user/6606ea27-fc94-47f3-bbff-6f374aa9d75e/project/0f62bfe7-ce59-46e5-97d2-78a927550a6a)
 
+<img src="https://wakatime.com/share/@6606ea27-fc94-47f3-bbff-6f374aa9d75e/8502367d-caec-478a-9462-b0d52cc00719.svg"/>
+
 
 <p><br></p>
 
