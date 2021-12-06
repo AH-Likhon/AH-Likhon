@@ -57,7 +57,8 @@
 <!-- <a href="https://visitor-badge.laobi.icu/badge?page_id=alsiamworld.visitor-badge&title=Visits"><img src="https://komarev.com/ghpvc/?username=ah-likhon&label=Profile%20views&color=0e75b6&style=flat" alt="ah-likhon" /></a> -->
 
 
-<!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
+[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
+[![wakatime](https://wakatime.com/badge/user/62be4223-8387-4fcd-b0ae-09520f400cac.svg)](https://wakatime.com/@62be4223-8387-4fcd-b0ae-09520f400cac)
 
 <p><br></p>
 
