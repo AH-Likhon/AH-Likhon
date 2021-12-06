@@ -58,9 +58,10 @@
 
 
 <!-- [![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc) -->
-<!-- [![wakatime](https://wakatime.com/badge/user/6606ea27-fc94-47f3-bbff-6f374aa9d75e.svg)](https://wakatime.com/@6606ea27-fc94-47f3-bbff-6f374aa9d75e)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ah-likhon)](https://github.com/anuraghazra/github-readme-stats) -->
+[![wakatime](https://wakatime.com/badge/user/6606ea27-fc94-47f3-bbff-6f374aa9d75e.svg)](https://wakatime.com/@6606ea27-fc94-47f3-bbff-6f374aa9d75e)
+<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ah-likhon)](https://github.com/anuraghazra/github-readme-stats) -->
 [![wakatime](https://wakatime.com/badge/user/6606ea27-fc94-47f3-bbff-6f374aa9d75e/project/a6edec2a-8aaf-49a9-82e7-28c9715034b6.svg)](https://wakatime.com/badge/user/6606ea27-fc94-47f3-bbff-6f374aa9d75e/project/a6edec2a-8aaf-49a9-82e7-28c9715034b6)
+
 
 
 <p><br></p>
