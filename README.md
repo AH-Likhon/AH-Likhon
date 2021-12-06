@@ -92,7 +92,7 @@
   
 </p>
 
-## 📊 Github stats
+## 📊 Github Stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <a> 
