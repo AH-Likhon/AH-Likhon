@@ -1,30 +1,3 @@
-### Use to Code:
-
-
-<!-- GitHub Streak stats by DenverCoder1 - hhttps://github.com/DenverCoder1/github-readme-streak-stats -->
-<p align="center">
-  <a href="https://github.com/AH-Likhon">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AH-Likhon&theme=radical&hide_border=true&background=1F222E" alt="AH-Likhon's GitHub streak"/>
-  </a>
-</p>
-
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<a> 
-    <a href="https://github.com/alsiam"><img alt="Al Siam's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=alsiam&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/alsiam"><img alt="Al Siam's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=alsiam&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
-<p></p>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/alsiam"><img alt="Al Siam's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=alsiam&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
-
-
----------------------------------------
-
 <!-- <h3 align="center">MERN Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ah-likhon&label=Profile%20views&color=0e75b6&style=flat" alt="ah-likhon" /> </p>
