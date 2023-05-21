@@ -110,7 +110,7 @@
   <a href="https://www.linkedin.com/in/mdakramulhoque/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="ah-likhon"/></a> 
   <a href="https://twitter.com/AurthohinL" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a> 
   <a href="https://instagram.com/l_i_k_h_o_n_01" target="blank"><img src="https://img.shields.io/badge/Instagram-fe4164?style=for-the-badge&logo=instagram&logoColor=white" alt="ah-likhon" /></a> 
-    <a href="https://web.facebook.com/MdhaLikhon" target="blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ah-likhon"  /></a> 
+    <a href="https://www.facebook.com/md.akramul.hoque.likhon" target="blank"><img src="https://img.shields.io/badge/Facebook-20BEFF?&style=for-the-badge&logo=facebook&logoColor=white" alt="ah-likhon"  /></a> 
  <a href="https://dev.to/ahlikhon" target="blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="ah-likhon" /></a>
 </p>
 
