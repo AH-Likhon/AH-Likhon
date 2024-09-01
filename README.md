@@ -74,12 +74,21 @@
     <code href="#"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js%20-%2343853D.svg?logo=node.js&logoColor=white"></code>
     <code href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js%20-%23404d59.svg?logo=express&logoColor=white"></code>
     <code href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript%20- %23007ACC.svg?logo=typescript&logoColor=white"></code>
+    <code href="#"><img alt="Next" src="https://img.shields.io/badge/Next%20- %23007ACC.svg?logo=next&logoColor=white"></code>
     <code href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></code>
-    <code href="#"><img alt="Python" src="https://img.shields.io/badge/Material UI%20-%2314354C.svg?logo=MaterialUI&logoColor=white"></code>
+    <code href="#"><img alt="Mongoose" src ="https://img.shields.io/badge/Mongoose-%234ea94b.svg?logo=mongoose&logoColor=white"></code>
+    <code href="#"><img alt="Redux" src ="https://img.shields.io/badge/Redux-%234ea94b.svg?logo=redux&logoColor=white"></code>
+    <code href="#"><img alt="jQery" src="https://img.shields.io/badge/jQuery%20-%23430098.svg?logo=jQuery&logoColor=white"></code>
+    <code href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23430098.svg?logo=sql&logoColor=white"></code>
+    <code href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL%20-%23430098.svg?logo=postgreSQL&logoColor=white"></code>
+    <code href="#"><img alt="Axios" src="https://img.shields.io/badge/Axios%20-%23430098.svg?logo=axios&logoColor=white"></code>
     <code href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></code>
     <code href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%234D97FF.svg?logo=Bootstrap&logoColor=white"></code>
-    <code href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Tailwind CSS%20-%23F7DF1E.svg?logo=TailwindCSS&logoColor=black"></code>
-    <code href="#"><img alt="jQery" src="https://img.shields.io/badge/Axios%20-%23430098.svg?logo=Axios&logoColor=white"></code>
+    <code href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS%20-%23F7DF1E.svg?logo=TailwindCSS&logoColor=black"></code>
+    <code href="#"><img alt="Ant Design" src="https://img.shields.io/badge/Ant Design%20-%234D97FF.svg?logo=Ant Design&logoColor=white"></code>
+    <code href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI%20-%2314354C.svg?logo=MaterialUI&logoColor=white"></code>
+    <code href="#"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra UI%20-%2314354C.svg?logo=ChakraUI&logoColor=white"></code>
+    <code href="#"><img alt="Shade CDN" src="https://img.shields.io/badge/Shade CDN%20-%234D97FF.svg?logo=Shade CDN&logoColor=white"></code>
     <code href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></code>
     <code href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23F05033.svg?logo=github&logoColor=white"></code>
     <code href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%2314354C.svg?logo=Netlify&logoColor=white"></code>
