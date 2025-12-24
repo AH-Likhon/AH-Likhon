@@ -88,8 +88,7 @@
     <code href="#"><img alt="Ant Design" src="https://img.shields.io/badge/Ant Design%20-%234D97FF.svg?logo=Ant Design&logoColor=white"></code>
     <code href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI%20-%2314354C.svg?logo=MaterialUI&logoColor=white"></code>
     <code href="#"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra UI%20-%2314354C.svg?logo=ChakraUI&logoColor=white"></code>
-    <code href="#"><img alt="Shade CDN" src="https://img.shields.io/badge/Shade CDN%20-%234D97FF.svg?logo=Shade CDN&logoColor=white"></code>
- [![Shade CDN](https://img.shields.io/badge/Shade%20CDN-%234D97FF.svg?logo=Shade%20CDN&logoColor=white)](#)
+    <code href="#"><img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui%20-%234D97FF.svg?logo=shadcn/ui&logoColor=white"></code>
     <code href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></code>
     <code href="#"><img alt="Github" src="https://img.shields.io/badge/Github%20-%23F05033.svg?logo=github&logoColor=white"></code>
     <code href="#"><img alt="Netlify" src="https://img.shields.io/badge/Netlify%20-%2314354C.svg?logo=Netlify&logoColor=white"></code>
