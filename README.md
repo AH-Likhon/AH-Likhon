@@ -85,7 +85,7 @@
     <code href="#"><img alt="SASS" src="https://img.shields.io/badge/Sass%20-hotpink.svg?logo=SASS&logoColor=white"></code>
     <code href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap%20-%234D97FF.svg?logo=Bootstrap&logoColor=white"></code>
     <code href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind CSS%20-%23F7DF1E.svg?logo=TailwindCSS&logoColor=black"></code>
-    <code href="#"><img alt="Ant Design" src="https://img.shields.io/badge/Ant Design%20-%234D97FF.svg?logo=Ant Design&logoColor=white"></code>
+    <code href="#"><img alt="Ant Design" src="https://img.shields.io/badge/Ant Design%20-%234D97FF.svg?logo=AntDesign&logoColor=white"></code>
     <code href="#"><img alt="Material UI" src="https://img.shields.io/badge/Material UI%20-%2314354C.svg?logo=MaterialUI&logoColor=white"></code>
     <code href="#"><img alt="Chakra UI" src="https://img.shields.io/badge/Chakra UI%20-%2314354C.svg?logo=ChakraUI&logoColor=white"></code>
     <code href="#"><img alt="shadcn/ui" src="https://img.shields.io/badge/shadcn/ui%20-%234D97FF.svg?logo=shadcn/ui&logoColor=white"></code>
